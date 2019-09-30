@@ -45,6 +45,7 @@ knobSize | `Number` | 20 | Knoob size
 knoobSource | `Path` | knoob.png | Knoob source
 playButton | `render()` | example | Render method for tap to play button
 innerRadius | `Number` | 100 | Set inner radius size
+size | `Number` | `Dimensions.get('screen')` | Set component size
 
 ## Usage
 ```js
